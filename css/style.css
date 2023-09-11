@@ -1,0 +1,22 @@
+body{
+    background-color: #07131f !important;
+}
+
+.container-header{
+    background-color: #07131f !important;
+}
+
+.container-bg{
+    background-color: #1d2d3c;
+}
+
+.card{
+    background-color: #112030 !important;
+    height: 100% !important;
+}
+
+.card-body > * {
+    color: rgb(207, 206, 206) !important;
+    
+}
+
