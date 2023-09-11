@@ -1,4 +1,3 @@
-"use script"
 
 Vue.createApp({
   data() {
